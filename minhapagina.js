@@ -6,3 +6,5 @@ window.onload= function (){
 //Mapbox
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(mapa);
 }
+
+var = ponto = L.marke([-24.45,-49.27])
