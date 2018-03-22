@@ -1,0 +1,19 @@
+#terezo{
+height: 95%;
+width: 95%;
+}
+
+
+html , body {
+
+  height: 100%;
+  width: 100%;
+
+}
+
+/* img {
+  position: absolute;
+  top: 10%;
+  left: 7%;
+  z-index: 500;
+} */
