@@ -1,0 +1,16 @@
+html,body{
+  height: 100%;
+  width:100%;
+  /* faz com que nao tenha nenhuma borda no mapa. pode ser 0px 0px 0px 0px*/
+  margin: 0;
+}
+
+
+#meumapa {
+height: 100%;
+width: 100%;
+}
+
+
+
+    
